@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chess-analytics/static/css/main.1caca42d.css",
+    "main.js": "/chess-analytics/static/js/main.3526cdc1.js",
+    "index.html": "/chess-analytics/index.html",
+    "main.1caca42d.css.map": "/chess-analytics/static/css/main.1caca42d.css.map",
+    "main.3526cdc1.js.map": "/chess-analytics/static/js/main.3526cdc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1caca42d.css",
+    "static/js/main.3526cdc1.js"
+  ]
+}
