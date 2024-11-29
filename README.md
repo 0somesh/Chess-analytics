@@ -2,17 +2,6 @@
 
 An interactive chess game with built-in analysis engine and customizable AI opponent. Play against the computer, analyze positions, and improve your chess skills. 
 
-## Features ✨
-
-- Interactive chess board with legal move validation 
-- Customizable AI opponent with adjustable strength (ELO rating) 
-- Real-time position analysis 
-- Opening book integration 
-- Move quality evaluation 
-- Complete move history with annotations 
-- Free mode for position analysis 
-- Multiple engine modes (depth-based and time-based) 
-
 ## Game Modes 🎮
 
 # User vs Computer 
