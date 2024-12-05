@@ -25,7 +25,7 @@ Analyze positions freely by moving pieces for both sides. This mode is perfect f
 - Opponent strength adjustment (ELO rating) 
 - Opening book usage toggle 
 
-### Analysis Engine Settings 
+### Settings 
 - Engine mode selection (Depth/Time based) 
 - Analysis power adjustment 
 - Engine statistics display (ELO, Rank, Depth/Time) 
