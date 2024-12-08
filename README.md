@@ -1,6 +1,6 @@
 ### Chess Analytis
 
-An interactive chess game with built-in analysis engine and customizable AI opponent. Play against the computer, analyze positions, and improve your chess skills. 
+An interactive chess game with built-in analysis engine and customizable AI opponent. Play against the computer, analyze positions, and improve chess skills. 
 
 ## Game Modes 🎮
 
