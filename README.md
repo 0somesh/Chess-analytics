@@ -1,3 +1,5 @@
+// Made on create-react-app migrated to vite
+
 # Chess Analysis Engine ♟️
 
 ![GitHub](https://img.shields.io/github/license/scar17off/chess-analysis-engine)
