@@ -14,7 +14,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/scar17off/chess-analysis-engine)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/scar17off/chess-analysis-engine)
 
-An interactive chess game with built-in analysis engine and customizable AI opponent. Play against the computer, analyze positions, and improve your chess skills. 🎮 🤖
+An interactive chess game with built-in analysis engine and customizable AI opponent. Play against the computer, analyze positions, and improve your chess skills. 
 
 ## Features ✨
 
